@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # congrats to whoever's reading this, here's a challenge for you: http://bit.ly/rot13willbehelfulateron
+# now fuck off
 
 import csv
 
